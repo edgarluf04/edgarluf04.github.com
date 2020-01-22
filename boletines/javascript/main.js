@@ -18,7 +18,7 @@ links.forEach(function(link){
      content.classList.add("animated");
 
      setTimeout(function(){
-       location.href = "/";
+       location.href = "/boletines/";
      },600);
 
      return false;
